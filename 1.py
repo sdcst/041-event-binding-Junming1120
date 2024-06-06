@@ -1,7 +1,7 @@
-import tkinter as tk 
+import tkinter as tk
+import playsound as p
 from tkinter import *
 from tkinter import ttk
-import playsound as p
 
 def a(event):
     print(event)
